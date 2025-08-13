@@ -12,18 +12,18 @@ Este proyecto contiene un script que **instala, configura y habilita** `x11vnc` 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/x11vnc-arch-installer.git
-   cd x11vnc-arch-installer
+   git clone https://github.com/glmbxecurity/x11vnc-server-auto
+   cd x11vnc-server-auto
    ```
 
 2. Dar permisos al script:
    ```bash
-   chmod +x setup_x11vnc.sh
+   chmod +x setup.sh
    ```
 
 3. Ejecutar el script:
    ```bash
-   ./setup_x11vnc.sh
+   ./setup.sh
    ```
    El script pedirá:
    - **Usuario** al que se asociará el servicio.
